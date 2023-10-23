@@ -1,0 +1,49 @@
+user
+create account
+update account
+delete account
+create repository
+open repository
+add files
+create a branch
+delete a branch
+code repository
+write description
+commit changes
+cancel changes
+create new pull request
+cancel pull request
+compare & pull request
+add labels
+add milestones
+add asignees
+add projects
+unsubscribe notifications(e)
+merge pull requets(i)
+star a repository(e)
+clone repository
+fork
+create issue
+contribute to wiki
+watch activity(i)
+
+
+Code owner 
+manage collobarations
+write comments
+approve pull requests
+manage labels
+request changes
+merge pull requests
+follow user
+unfollow user
+transfer ownership
+
+
+github
+alert about conflicts(i)
+send notifications to user(e)
+trending
+events
+collections
+update user profile
